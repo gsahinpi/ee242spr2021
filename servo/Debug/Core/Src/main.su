@@ -1,0 +1,8 @@
+main.c:69:5:main	8	static
+main.c:125:6:SystemClock_Config	88	static
+main.c:171:13:MX_TIM2_Init	48	static
+main.c:220:13:MX_GPIO_Init	40	static
+main.c:242:5:map	32	static
+main.c:246:6:servo_write	24	static
+main.c:250:6:servo_sweep	16	static
+main.c:269:6:Error_Handler	4	static,ignoring_inline_asm
